@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Assets\Background.png" />
+    <None Remove="Assets\AzeretMono-Regular.ttf" />
     <None Remove="Assets\HoldBG.png" />
     <None Remove="Assets\IBlock.png" />
     <None Remove="Assets\JBlock.png" />
@@ -29,7 +29,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Assets\Background.png" />
+    <Resource Include="Assets\AzeretMono-Regular.ttf" />
     <Resource Include="Assets\HoldBG.png" />
     <Resource Include="Assets\IBlock.png" />
     <Resource Include="Assets\JBlock.png" />

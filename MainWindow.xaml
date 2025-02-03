@@ -8,7 +8,7 @@
         Title="Tetris" Height="600" Width="800"
         MinWidth="600" MinHeight="600"
         Foreground="White"
-        FontFamily="Dank Mono" FontSize="28"
+        FontFamily="Azeret Mono" FontSize="28"
         KeyDown="Window_KeyDown">
     <Grid>
         <Grid.RowDefinitions>
@@ -22,14 +22,14 @@
         </Grid.ColumnDefinitions>
 
         <Grid.Background>
-            <ImageBrush ImageSource="Assets/Background.png"/>
+            <SolidColorBrush Color="#4C4C4C"/>
         </Grid.Background>
 
         <Viewbox Grid.Row="1"
                  Grid.Column="1"
                  Margin="0, 0, 0, 20">
             <Canvas x:Name="GameCanvas" 
-                Background="#005475"
+                Background="#727272"
                 Width="250"
                 Height="510"
                 ClipToBounds="True"

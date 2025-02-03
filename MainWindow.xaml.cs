@@ -20,8 +20,8 @@ namespace Tetris
         [
             new BitmapImage(new Uri("Assets/TileEmpty.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/TileCyan.png", UriKind.Relative)),
-            new BitmapImage(new Uri("Assets/TileOrange.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/TileBlue.png", UriKind.Relative)),
+            new BitmapImage(new Uri("Assets/TileOrange.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/TileYellow.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/TileGreen.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/TilePurple.png", UriKind.Relative)),
@@ -32,8 +32,8 @@ namespace Tetris
         [
             new BitmapImage(new Uri("Assets/HoldBG.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/IBlock.png", UriKind.Relative)),
-            new BitmapImage(new Uri("Assets/LBlock.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/JBlock.png", UriKind.Relative)),
+            new BitmapImage(new Uri("Assets/LBlock.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/OBlock.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/SBlock.png", UriKind.Relative)),
             new BitmapImage(new Uri("Assets/TBlock.png", UriKind.Relative)),
